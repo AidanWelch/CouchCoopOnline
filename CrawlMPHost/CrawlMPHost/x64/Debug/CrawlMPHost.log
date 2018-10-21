@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\aidan\desktop\development\c++\onlinecoop(crawlmp)\crawlmphost\crawlmphost\source.cpp(11): warning C4005: 'WINVER': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(236): note: see previous definition of 'WINVER'
+  CrawlMPHost.vcxproj -> C:\Users\Aidan\Desktop\Development\C++\OnlineCoop(CrawlMP)\CrawlMPHost\x64\Debug\CrawlMPHost.exe

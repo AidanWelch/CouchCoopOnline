@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\aidan\source\repos\crawlmpclient\crawlmpclient\source.cpp(27): warning C4101: 'buffer': unreferenced local variable
+  CrawlMPClient.vcxproj -> C:\Users\Aidan\source\repos\CrawlMPClient\Debug\CrawlMPClient.exe
